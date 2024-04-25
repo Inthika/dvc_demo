@@ -1,0 +1,5 @@
+outs:
+- md5: 2dc5d27e52869cc3dc283015fd1848a1
+  size: 17
+  hash: md5
+  path: exactpro_data.csv
